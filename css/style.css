@@ -146,7 +146,7 @@ body {
     color: red;
 }
 
-.btn--red:active,
+.btn-red:active,
 .btn-red:hover {
     background-color: darkred;
     color: white;
@@ -163,7 +163,7 @@ body {
     color: white;
 }
 
-.btn--gray {
+.btn-gray {
     margin-top: 25px;
     background-color: #445361;
     border: 1px transparent;
